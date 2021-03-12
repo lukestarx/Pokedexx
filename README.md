@@ -1,0 +1,2 @@
+# Pokedexx
+Tugas1_LukeIrawan_825180059
